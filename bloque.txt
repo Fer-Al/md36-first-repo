@@ -1,0 +1,1 @@
+hemos aprendido a crear versiones de git deesde cero, hacer una cuenta de github y conectar a a git con github
